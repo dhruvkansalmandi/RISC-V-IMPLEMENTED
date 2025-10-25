@@ -64,7 +64,7 @@ To test your own RISC-V program sequence:
 
 ## Author
 
-**Your Name Here**
+Dhruv Kansal
 
 ## License
 
