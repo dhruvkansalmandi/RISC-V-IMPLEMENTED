@@ -7,6 +7,9 @@
 This project demonstrates the implementation of a single-cycle RISC-V processor, covering fundamental concepts of digital design, CPU architecture, modular coding, and hardware verification. The project is divided into clean modules, allowing for easy extension and adaptation.  
 The processor is designed to execute instructions loaded from a hex file, demonstrating program execution, memory access, ALU operations, and basic control flow.
 
+![RISC-V Processor Flowchart](RISC-V_flowchart.png)
+
+
 ## Key Features
 
 - **Modular Top-Level Design:**  
